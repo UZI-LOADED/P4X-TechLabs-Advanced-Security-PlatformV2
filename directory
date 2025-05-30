@@ -1,0 +1,9 @@
+# Create project directory
+mkdir p4x-platform
+cd p4x-platform
+
+# Initialize project
+npm init -y
+
+# Install dependencies
+npm install react next typescript @chakra-ui/react axios crypto-js
